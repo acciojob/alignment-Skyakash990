@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.center{
+	text-align:center;
+}
+.right{
+	text-align:right;
+}
+table,tr,td{
+	width:100%;
+	border:1px solid black;
+	table-layout:fixed;
+	height:15px;
+}
+.green{
+	background-color:green;
+}
+.blue{
+	background-color:blue;
+}
